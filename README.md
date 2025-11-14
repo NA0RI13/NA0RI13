@@ -8,8 +8,8 @@
   <br>
   <br>
   <br>
-  <img height=160 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NA0RI13&theme=jolly"/>
-  <img height=160 align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NA0RI13&theme=jolly&hide_border=true"/>
+  <img height=120 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NA0RI13&theme=jolly"/>
+  <img height=120 align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NA0RI13&theme=jolly&hide_border=true"/>
 </div>
 
 <br>
