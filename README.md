@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NA0RI13&theme=jolly"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NA0RI13&theme=jolly"/>
-  <img height=180 align="center" alt="commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NA0RI13&theme=jolly&utcOffset=8"/>
+  <img height=150 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NA0RI13&theme=jolly"/>
+  <img height=150 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NA0RI13&theme=jolly"/>
+  <img height=150 align="center" alt="commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NA0RI13&theme=jolly&utcOffset=8"/>
   <br>
   <br>
   <br>
